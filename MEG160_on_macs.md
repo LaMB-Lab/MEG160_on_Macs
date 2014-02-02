@@ -21,6 +21,7 @@
 
 * It works well, especially if you use [Wineskin][wineskin].
 * It's free!
+* You don't need a Windows installation disk.
 * It does not need to load a full copy of Windows, which probably makes it run faster.
 
 ### Cons:
