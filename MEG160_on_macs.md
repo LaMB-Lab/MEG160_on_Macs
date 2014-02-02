@@ -1,4 +1,4 @@
-# Running MEG160 on MAC OS X with Wine
+# Running MEG160 on MAC OS X.
 
 ## Option 1: Use [Parallels][parallels].
 
