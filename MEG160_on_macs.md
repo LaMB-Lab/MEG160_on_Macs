@@ -32,7 +32,7 @@
 
 1. Go to [Wineskin][wineskin], and download the latest version of the _Wineskin Winery.app_, unzip the downloaded file and move it to your Applications folder.
 
-![Move the _Wineskin Winery.app_ to your Applications folder.](./images/winery_app_in_applications.png)
+    ![Move the _Wineskin Winery.app_ to your Applications folder.](./images/winery_app_in_applications.png)
 
 2. Run [Wineskin][wineskin]. The _Installed Engines_ window will list the versions of [Wine][wine] you might have installed. If you have none, you can do a clean install by clicking on the "+" button at the bottom of the window.
 
