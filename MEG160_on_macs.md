@@ -28,9 +28,11 @@
 
 * None that I could find so far.
 
-### How to easily install [Wine][wine] for running MEG160:
+### How to easily install [Wine][wine] in order to run MEG160 on a Mac:
 
-1. Go to [Wineskin][wineskin], and download the latest version of the _Wineskin Winery.app_, unzip the downloaded file and move it to your Applications folder.
+- *Note*: These instructions work on Mac OS X 10.8.5, but I haven't tried in any other versions.
+
+1. Go to [Wineskin's website][wineskin], download the latest version of the _Wineskin Winery.app_, unzip the downloaded file and move it to your Applications folder.
 
     ![Move the _Wineskin Winery.app_ to your Applications folder.](./images/winery_app_in_applications.png)
 
