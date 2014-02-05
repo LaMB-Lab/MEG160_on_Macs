@@ -31,6 +31,9 @@
 ### How to easily install [Wine][wine] for running MEG160:
 
 1. Go to [Wineskin][wineskin], and download the latest version of the "Wineskin Winery.app", unzip the downloaded file and move it to your Applications folder.
+
+![Move the "Wineskin Winery.app" to your Applications folder.](./images/winery_app_in_applications.png)
+
 2. Run [Wineskin][wineskin]. The "Installed Engines" window will list the versions of [Wine][wine] you might have installed. If you have none, you can do a clean install by clicking on the "+" button at the bottom of the window.
 3. Select the latest [Wine][wine] engine version and click install.
 4. Look at the "Wrapper Version" window. If it is empty, click on "Update".
